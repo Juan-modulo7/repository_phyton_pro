@@ -1,0 +1,5 @@
+cadena = input("Ingrese una cadena de texto: ")
+
+cantidad = len(cadena)
+
+print("la palabra tiene",cantidad,"caracteres")
