@@ -1,0 +1,11 @@
+respuseta_usuario = int(input("cual sera el resultado?"))
+
+numero = 5
+numero = numero + 2
+numero *= 3
+print(numero)
+
+if respuseta_usuario == numero :
+    print ("es correcto")
+else:
+    print (error)
